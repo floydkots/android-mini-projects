@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hikers Watch</string>
+    <string name="latText">Latitude: %1$.4f</string>
+    <string name="lonText">Longitude: %1$.4f</string>
+    <string name="accText">Accuracy: %1$.2f</string>
+    <string name="altText">Altitude: %1$.1f</string>
+</resources>
