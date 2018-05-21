@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
         // Facebook integration code
 
         // Actually, the integration wasn't flawless
+
+        // Done integrating
     }
 }
