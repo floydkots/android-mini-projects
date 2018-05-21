@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String user = "Rob";
+
+        // Facebook integration code
     }
 }
