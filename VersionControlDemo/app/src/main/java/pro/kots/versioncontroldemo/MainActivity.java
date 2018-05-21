@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         String user = "Rob";
 
         // Facebook integration code
+
+        // Actually, the integration wasn't flawless
     }
 }
